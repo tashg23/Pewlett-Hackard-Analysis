@@ -8,7 +8,7 @@ To create a SQL database to house all employee information since it was previous
 - There are 72,458 employees ready for retirement, with 25,916 of them being Senior Engineers and 24,926 being Senior Staff 
 - There are only 2 retirement ready managers, so there is less of an urgent need to find new managers 
 
-Unique_titles<img width="163" alt="image" src="https://user-images.githubusercontent.com/113721712/218524258-9e724c98-521c-4793-bd84-22de8b0faeef.png">
+<img width="163" alt="image" src="https://user-images.githubusercontent.com/113721712/218524258-9e724c98-521c-4793-bd84-22de8b0faeef.png">
 
 - There are 1,549 employees that are eligible for the 'mentorship' program (mentorship_eligibility.csv) 
 
